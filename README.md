@@ -5,3 +5,5 @@
 ## Welcome! 👋
 The goal of this task was to replicate the above pages for large, medium and small screens as closely as possible.
 This was done with the help of bootstrap-5 and some small custom css modifications
+
+[Github Pages](https://art3xias23.github.io/bs5-recipe/)
